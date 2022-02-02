@@ -1,5 +1,4 @@
 - Hi, I’m @OriginalNam3 :]
-- Learning
 
 <!---
 OriginalNam3/OriginalNam3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
